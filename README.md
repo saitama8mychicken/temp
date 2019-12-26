@@ -6,3 +6,6 @@ these keyword-matched sentences into a new 'keyword-filtered' corpus as your fir
 occurrence of the keywords in your corpus as a bar-chart and as a wordcloud (in separate output tabs) as your second output.
 Here is a sample keyword list to test and try on your automotive corpus:
 keyword_list = c('engine', 'mileage', 'comfort', 'performance', 'interior', 'maintenance', 'price')
+
+## solution
+The above question has been solved using python as given above 
